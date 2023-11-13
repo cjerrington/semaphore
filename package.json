@@ -49,7 +49,7 @@
     "now-build": "run-s export",
     "build-vercel-json": "node bin/build-vercel-json.js",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d __sapper__/export"
   },
   "dependencies": {
     "@formatjs/intl-listformat": "^7.1.3",
