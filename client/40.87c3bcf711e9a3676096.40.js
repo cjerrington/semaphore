@@ -1,0 +1,2 @@
+"use strict";(this.webpackChunksemaphore=this.webpackChunksemaphore||[]).push([[40],{40:(e,o,a)=>{a.r(o),a.d(o,{default:()=>n});var h=a(7193),r=a(1062),t=a(1158);const{origin:c}=location,n=()=>t({workerPath:`${c}/${r.Z}`,langPath:`${c}/`,corePath:`${c}/${h.Z}`,cacheMethod:"none",workerBlobURL:!1,logger:e=>{}})}}]);
+//# sourceMappingURL=40.87c3bcf711e9a3676096.40.js.map
